@@ -11,10 +11,6 @@ This graft shows what crimes were being committed and the number of occurrences.
 ![image](https://github.com/Luz-Dobbins/Project-4/assets/123646377/66047e43-c375-4022-aee3-4f2a73eb31d5)
 
 
-I have separated the crimes by holidays and there is a bit of correlation between the two.
-
-
-
 If we look at them individually you can see the progression better. 
 
 ![image](https://github.com/Luz-Dobbins/Project-4/assets/123646377/10b2c952-2a87-4c53-81da-49edf3ab0556)
@@ -24,3 +20,4 @@ If we look at them individually you can see the progression better.
 ![image](https://github.com/Luz-Dobbins/Project-4/assets/123646377/2cd47d23-31cc-4b11-bb52-2e3e32b68b0d)
 
 
+I have separated the crimes by holidays and there is a bit of correlation between the two.
