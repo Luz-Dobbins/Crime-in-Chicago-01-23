@@ -28,3 +28,8 @@
 
 ![image](https://github.com/Luz-Dobbins/Project-4/assets/123646377/352bd026-14eb-4712-88bb-06f84782bd44)
 
+# Main Dashboard
+
+![image](https://github.com/Luz-Dobbins/Project-4/assets/123646377/01dbcae4-8b78-450d-b924-d50372428f3a)
+
+https://public.tableau.com/views/CoreProjectDashboard_16898205184770/MainDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
